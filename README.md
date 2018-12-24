@@ -11,7 +11,7 @@ An image super-resolution toolkit flexible for development. It now provides:
   <img height="350" src="https://github.com/xinntao/ESRGAN/blob/master/figures/baboon.jpg">
 </p>
 
-3. [**SFTGAN**](https://github.com/xinntao/CVPR18-SFTGAN) model. It adopts Spatial Feature Transform (SFT) to effectively incorporate other conditions/priors, like semantic prior for image SR, representing by segmentation probability maps. For more details, please refer to [Papaer](https://arxiv.org/abs/1804.02815), [SFTGAN repo](https://github.com/xinntao/CVPR18-SFTGAN).
+3. [**SFTGAN**](https://github.com/xinntao/CVPR18-SFTGAN) model. It adopts Spatial Feature Transform (SFT) to effectively incorporate other conditions/priors, like semantic prior for image SR, representing by segmentation probability maps. For more details, please refer to [Paper](https://arxiv.org/abs/1804.02815), [SFTGAN repo](https://github.com/xinntao/CVPR18-SFTGAN).
 <p align="center">
   <img height="220" src="https://github.com/xinntao/SFTGAN/blob/master/figures/network_structure.png">
 </p>
